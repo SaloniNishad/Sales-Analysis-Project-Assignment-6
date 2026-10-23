@@ -73,3 +73,13 @@ This project demonstrates how data cleaning, exploratory analysis, visualization
 
 \- `Sales Data Analysis presentation.pptx`: Project presentation.
 
+\## Tools Used
+
+
+
+\- Power BI for dashboard creation.
+
+\- Excel for data inspection and cleaning.
+
+\- Git and GitHub for version control.
+
